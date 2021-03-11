@@ -50,4 +50,5 @@ rrhh@mural.com
 info@mural.com
 rrhh@mural.com.ar
 info@mural.com.ar
+careers@tradehelm.com
 ```
